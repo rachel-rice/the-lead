@@ -12,6 +12,9 @@ const connectDB = async () => {
     }
   }
 
+  // just testing the new connection
+
+
 //   connection below without mongoose
 // let db,
 //     dbConnectionStr = process.env.DB_STRING,
